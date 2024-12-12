@@ -1,0 +1,21 @@
+:root{
+    --firts-color: #01579B;
+    --second-color: #006064;
+    --terciary-color: #bf360c;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 98vw;
+    height: auto;
+    display: flex;
+}
+
+#contenedor-izquierda{
+    background-color: var(--firts-color);
+}
