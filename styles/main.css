@@ -1,5 +1,5 @@
 :root{
-    --firts-color: #01579B;
+    --first-color: #01579B;
     --second-color: #006064;
     --terciary-color: #bf360c;
 }
@@ -12,7 +12,7 @@
 
 body{
     width: 98vw;
-    height: auto;
+    height: 100vh;
     display: flex;
 }
 
