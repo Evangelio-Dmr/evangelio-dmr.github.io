@@ -1,0 +1,22 @@
+body{
+    background-color:black;
+}
+
+#titulo{
+    color: crimson;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+h4{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+}
+
+h6{
+    text-align: center;
+    font-size: 14px;
+    color:darkgreen;
+}
